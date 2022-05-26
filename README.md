@@ -26,9 +26,20 @@
 
 ![image](https://user-images.githubusercontent.com/68841702/170447887-d8f44bb4-6ec3-44c0-af15-2fce97c0061a.png)
 
+- Next.JS 를 활용하여 SSR(Server Side Rendering) 페이지 구현
+
+  
+
 ### Back-End
 
 ![image](https://user-images.githubusercontent.com/68841702/170447932-127111da-4300-4fec-afcd-ac83b159960c.png)
+
+- Django 를 활용한 백엔드 구축
+- 빅데이터 기반 추천 알고리즘
+  - MF(Matrix Factorization) 을 활용한 협업 필터링
+    - 사용자-영화 사이의 평점 데이터를 대규모 다차원 행렬로 만들어 SVD 차원 감소 기법으로 분해하는 과정에서 잠재요인을 찾아내어 뽑아낸 후에 이를 토대로 추천해주는 알고리즘
+  - Cosine Similarity 를 활용한 장르 기반 추천알고리즘
+    - 영화가 가진 장르들을 토대로 영화들 간의 장르 유사도를 비교하여 비슷한 장르들을 추천 
 
 
 
