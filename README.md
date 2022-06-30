@@ -1,6 +1,4 @@
-# **6기 2학기 특화PJT(22/02/21 ~ 22/04/8)**
-
-## **광주 2반 6팀 워라벨없는 워라벨팀(C206)**
+# **ssafy 6기 2학기 특화PJT(22/02/21 ~ 22/04/8)**
 
 ## Contents
 
@@ -47,6 +45,38 @@
 
 ![image](https://user-images.githubusercontent.com/68841702/170448829-3f92ef6a-d540-4a4d-8e81-8942e9d9a431.png)
 
+
+## 개발 결과
+<ul>
+  <li>메인페이지</li>
+  <p align="center">
+    <img width="600px", src="https://user-images.githubusercontent.com/45279249/173016292-f2bda07d-ddbe-46f5-b909-3c6a102eb439.png" />
+  </P>
+  <li>메인페이지 - 추천</li>
+  <p align="center">
+    <img width="600px", src="https://user-images.githubusercontent.com/45279249/173016479-195e573e-65ae-4381-90e0-6a5d7ffc1d8e.png" />
+  </P>
+  <li>로그인/회원가입</li>
+  <p align="center">
+    <img width="600px", src="https://user-images.githubusercontent.com/45279249/173016667-21391854-ce45-40ca-b388-ab5f1023d6fc.png" />
+  </P>
+  <li>프로필 페이지</li>
+  <p align="center">
+    <img width="600px", src="https://user-images.githubusercontent.com/45279249/173018032-78e4c7e0-89f2-4a07-9fdd-ab26048d7939.png" />
+  </P>
+  <li>영화 상세 페이지</li>
+  <p align="center">
+    <img width="600px", src="https://user-images.githubusercontent.com/45279249/173018256-98f2b534-c61a-473a-88d1-b056a515e50d.png" />
+  </P>
+  <li>영화 스크랩 페이지</li>
+  <p align="center">
+    <img width="600px", src="https://user-images.githubusercontent.com/45279249/173017108-368ebbf9-eec8-451e-ac8e-19d31cc48b3d.png" />
+  </P>
+   <li>영화 리뷰 커뮤니티</li>
+  <p align="center">
+    <img width="600px", src="https://user-images.githubusercontent.com/45279249/173017856-8fa472d3-5b4a-49d2-8940-b6d5961e8db3.png" />"
+  </P>
+</ul>
 
 
 ## 빌드 및 배포
